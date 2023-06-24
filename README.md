@@ -1,2 +1,2 @@
-# pybit_v5_PyTradeBotCore
-PyTradeBotCore
+# PyTradeBotCore for Bybit crypto exchange (pybit V5 API)
+
