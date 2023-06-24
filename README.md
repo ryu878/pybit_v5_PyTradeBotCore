@@ -1,0 +1,2 @@
+# pybit_v5_PyTradeBotCore
+PyTradeBotCore
